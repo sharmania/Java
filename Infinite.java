@@ -1,12 +1,13 @@
 class Infinite
+{
+	public static void main(String[] arg)
 	{
-		public static void main(String[] args)
-			{
-				for( ; ; )
-					{
-
-						System.out.print("HELLO WORLD");
-					}
-			}
+		for(; ;)
+		{
+			System.out.println("hello world");
+		}
+		
+	
 	}
 
+}
